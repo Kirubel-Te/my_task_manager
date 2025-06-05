@@ -24,6 +24,8 @@ A simple Task Manager built with React and styled using plain CSS. Users can:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/react-task-manager.git
-cd react-task-manager
+git clone https://github.com/Kirubel-Te/my_task_manager.git
+cd my_task_manager
+npm install
+npm run dev
 ```
