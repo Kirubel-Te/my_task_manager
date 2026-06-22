@@ -1,5 +1,6 @@
 # 📝 React Task Manager
 
+Kuraz tech internship project submission
 A simple Task Manager built with React and styled using plain CSS. Users can:
 
 - View a list of tasks
